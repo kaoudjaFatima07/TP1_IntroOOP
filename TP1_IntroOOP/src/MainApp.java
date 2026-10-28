@@ -22,6 +22,8 @@ public class MainApp {
         student3.email = "Fatimakaoudja@gmail.com";
         
         student1.displayInfo();
+        student1.major = "artificial intellegence";
+        student1.displayInfo();
         student2.displayInfo();
         student3.displayInfo();
 	}
